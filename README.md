@@ -23,18 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-![iPhone X ](./images/iPhoneX-1.jpg)
 ![iPhone X ](./images/iPhoneX-2.jpg)
+![iPhone X ](./images/iPhoneX-1.jpg)
 
-![Mac Book Air ](./images/iPhoneX-1.jpg)
+![Mac Book Air ](./images/MacBookAir.jpg)
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository URL](https://github.com/clause5/bem-sass-flexbox-3-column-preview-card)
+- Live Site URL: [Live site URL](https://clause5.github.io/bem-sass-flexbox-3-column-preview-card/)
 
 ## My process
 
